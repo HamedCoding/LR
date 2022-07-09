@@ -1,5 +1,4 @@
 ## Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation  
-The code available in [LinReg StdScaler CV.ipynb](https://github.com/hamedmokazemi/LinearRegression/blob/master/LinReg%20StdScaler%20CV.ipynb).  
   
 The following figure shows the pairplot of dataset:  
   
